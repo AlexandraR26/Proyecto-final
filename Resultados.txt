@@ -1,0 +1,4 @@
+Es un suelo fino: limo de alta plasticidad.
+Es un suelo fino: limo de baja plasticidad.
+Se trata de un suelo grueso: arena,  es una arena limosa
+Es un suelo fino: arcilla de baja plasticidad.
